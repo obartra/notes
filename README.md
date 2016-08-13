@@ -1,2 +1,0 @@
-# notes
-front end excerpts
