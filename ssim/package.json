@@ -1,0 +1,51 @@
+{
+  "name": "ssim.js",
+  "version": "0.0.1",
+  "description": "pure js no canvas ssim computation",
+  "main": "index.js",
+  "scripts": {
+    "cover": "node node_modules/.bin/istanbul cover spec/*.spec.js",
+    "test": "blue-tape spec/*.spec.js | tap-dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obartra/notes.git"
+  },
+  "keywords": [
+    "ssim",
+    "image",
+    "structural",
+    "similarity",
+    "image",
+    "processing"
+  ],
+  "author": "Oscar Bartra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obartra/notes/issues"
+  },
+  "homepage": "https://github.com/obartra/notes#readme",
+  "dependencies": {
+    "jpeg-js": "^0.2.0",
+    "mime-types": "^2.1.11",
+    "ndarray": "^1.0.18",
+    "ndarray-pack": "^1.2.1",
+    "node-bitmap": "0.0.1",
+    "omggif": "^1.0.8",
+    "pngjs": "^3.0.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "blue-tape": "^1.0.0",
+    "eslint": "3.5.0",
+    "eslint-config-airbnb": "11.1.0",
+    "eslint-config-standard": "6.0.0",
+    "eslint-plugin-import": "1.15.0",
+    "eslint-plugin-jsx-a11y": "2.2.2",
+    "eslint-plugin-promise": "2.0.1",
+    "eslint-plugin-react": "6.2.1",
+    "eslint-plugin-standard": "2.0.0",
+    "istanbul": "^0.4.5",
+    "tap-dot": "^1.0.5"
+  }
+}
