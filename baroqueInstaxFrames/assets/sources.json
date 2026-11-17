@@ -1,0 +1,14 @@
+[
+  {
+    "asset": "eight-frames.webp",
+    "source": "https://github.com/obartra/baroque-instax-frames/blob/16079fb3028c29d92122b2ae158a66a65e89c7b4/renders/Eight-frames-current.png",
+    "source_sha256": "635127d18c41bec5d6ae10ce3de680348e0e3e04a378e8ec08b8ac3441cc8762",
+    "license": "CC0-1.0 within source repository LICENSING.md scope"
+  },
+  {
+    "asset": "rear-film-fit.webp",
+    "source": "https://github.com/obartra/baroque-instax-frames/blob/16079fb3028c29d92122b2ae158a66a65e89c7b4/renders/Eight-frames-rear-film-fit.png",
+    "source_sha256": "6e0e763c950d33e531b4c20f98e76f061fe937f1dfdd9288e965d4871abafbab",
+    "license": "CC0-1.0 within source repository LICENSING.md scope"
+  }
+]
