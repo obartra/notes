@@ -8,7 +8,7 @@ turned into a collection of eight designs, a photo-loading mechanism, and a
 fair amount of thinking about flowers.
 
 **[Browse the frames and download the files](https://obartra.github.io/baroque-instax-frames/)**
-or [download the collection on Printables](https://www.printables.com/model/1920140-rococo-instax-mini-magnetic-frames-8-designs).
+or download the collection on [MakerWorld](https://makerworld.com/en/models/3636176-rococo-instax-mini-magnetic-frames-8-designs) or [Printables](https://www.printables.com/model/1920140-rococo-instax-mini-magnetic-frames-8-designs).
 The [source is on GitHub](https://github.com/obartra/baroque-instax-frames).
 
 ![Eight floral frames, shown at the same scale](assets/eight-frames.webp)
